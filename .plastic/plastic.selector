@@ -1,0 +1,4 @@
+repository "meta01@qian-yj19-mails-tsinghua-edu-cn@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
