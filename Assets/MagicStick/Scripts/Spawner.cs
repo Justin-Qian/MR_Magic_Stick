@@ -33,9 +33,6 @@ public class Spawner : MonoBehaviour
     public GameObject clickhintPrefab;
     public GameObject swipePrefab;
     public GameObject swipehintPrefab;
-    public GameObject goldenPrefab;
-    public GameObject goldenhintPrefab;
-    public GameObject swipeguidePrefab;
     public MusicBlock[] musicBlocks;
     public List<int> swipeBlocks = new List<int>();
 
